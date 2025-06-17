@@ -30,15 +30,7 @@ Insert gif or link to demo
 
 ## Badges
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) 
-
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
-
-![npm](https://img.shields.io/badge/npm-11.4.1-red)
-
-![PHP](https://img.shields.io/badge/PHP-8.1.10-777bb4)
-
-![Laravel](https://img.shields.io/badge/Laravel-10.x-f9322c)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)  ![npm](https://img.shields.io/badge/npm-11.4.1-red)  ![PHP](https://img.shields.io/badge/PHP-8.1.10-777bb4)  ![Laravel](https://img.shields.io/badge/Laravel-10.x-f9322c)
 
 
 
