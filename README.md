@@ -1,80 +1,58 @@
-e-Nalasha
+
+# Hi, this is a web for e-Nalasha! 👋
+
+
+# e-Nalasha
 
 e-Nalasha adalah sebuah platform web inovatif yang didedikasikan untuk busana muslimah. Proyek ini bertujuan untuk menyediakan pengalaman belanja online yang mulus dan menyenangkan bagi para wanita Muslim yang mencari pakaian modis dan sesuai syariat.
-Fitur Utama
 
-    Katalog Produk Luas: Jelajahi berbagai macam busana muslimah, mulai dari hijab, gamis, tunik, hingga aksesoris.
-    Antarmuka Pengguna Intuitif: Desain yang bersih dan mudah digunakan memastikan navigasi yang nyaman.
-    Pencarian dan Filter Canggih: Temukan produk yang kamu inginkan dengan cepat menggunakan fitur pencarian dan filter yang lengkap.
-    Detail Produk Lengkap: Informasi detail tentang setiap produk, termasuk deskripsi, ukuran, dan gambar berkualitas tinggi.
-    Proses Pembelian Aman: Pengalaman checkout yang aman dan efisien.
 
-Teknologi yang Digunakan
+## Features
 
-Proyek e-Nalasha dibangun dengan teknologi web modern untuk memastikan performa dan skalabilitas:
+- Categorization on Product
+- Shipping Status
+- Dashboard on Admin
 
-    Laravel: Framework PHP yang kuat dan elegan untuk pengembangan backend.
-    Tailwind CSS: Framework CSS yang utilitas-first untuk mendesain antarmuka pengguna yang responsif dan menarik.
 
-Instalasi dan Konfigurasi
+## Demo
 
-Untuk menjalankan proyek e-Nalasha di lingkungan lokal kamu, ikuti langkah-langkah berikut:
+Insert gif or link to demo
 
-    Clone repositori:
-    Bash
 
-git clone https://github.com/NamaPenggunaGitHub/e-Nalasha.git
-cd e-Nalasha
+## Acknowledgements
 
-Instal dependensi Composer:
-Bash
+ - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+ - [Freepik - Free Graphic Resources](https://www.freepik.com)
+ - [Figma - UI/UX Design Tool](https://www.figma.com)
+ - [Tutorial YouTube - Web Development](https://www.youtube.com)
+ - Dosen dan Asisten Praktikum Universitas UPN "Veteran" Yogyakarta
 
-composer install
 
-Buat file .env dan konfigurasikan:
-Bash
+## Badges
 
-cp .env.example .env
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) 
 
-Edit file .env dan sesuaikan pengaturan database kamu.
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
-Buat kunci aplikasi:
-Bash
+![npm](https://img.shields.io/badge/npm-11.4.1-red)
 
-php artisan key:generate
+![PHP](https://img.shields.io/badge/PHP-8.1.10-777bb4)
 
-Jalankan migrasi database:
-Bash
+![Laravel](https://img.shields.io/badge/Laravel-10.x-f9322c)
 
-php artisan migrate
 
-Jalankan server pengembangan Laravel:
-Bash
 
-php artisan serve
+## 🚀 About Me
+Proyek ini dikembangkan oleh [Latief Ghilfawan](https://github.com/Axiorn/) dan [Ahmad Nuruddin](https://github.com/RudiAdmah-31/) sebagai Web Developer pada website busana muslimah e-Nalasha
 
-Jalankan pengembangan Tailwind CSS:
-Bash
+## FAQ
 
-npm install
-npm run dev
+#### 1. Apakah saya harus membuat akun untuk berbelanja?
+Tidak harus. Kamu bisa langsung checkout sebagai tamu (guest), tapi kami sarankan membuat akun agar bisa melacak pesanan, menyimpan riwayat belanja, dan mendapatkan promo khusus.
 
-Atau untuk mode produksi:
-Bash
+#### 2. Apakah website ini aman untuk transaksi?
+Ya, website kami menggunakan enkripsi SSL dan sistem pembayaran yang terpercaya untuk memastikan keamanan data dan transaksi kamu.
 
-    npm run build
+#### 3. Apakah bisa belanja lewat HP?
+Bisa. Website kami sudah responsif dan bisa diakses dengan lancar melalui smartphone, tablet, maupun komputer.
 
-Sekarang kamu bisa mengakses aplikasi di http://127.0.0.1:8000 (atau port lain yang ditampilkan oleh php artisan serve).
-Kontribusi
-
-Kami menyambut kontribusi dari komunitas! Jika kamu ingin berkontribusi pada proyek e-Nalasha, silakan ikuti langkah-langkah berikut:
-
-    Fork repositori ini.
-    Buat branch baru untuk fitur atau perbaikan kamu (git checkout -b feature/nama-fitur).
-    Lakukan perubahan dan commit (git commit -m 'Tambahkan fitur baru').
-    Push ke branch kamu (git push origin feature/nama-fitur).
-    Buat Pull Request.
-
-Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
